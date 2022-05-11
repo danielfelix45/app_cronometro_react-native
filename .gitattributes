@@ -1,7 +1,7 @@
 # * linguist-vendored
 *.java linguist-vendored
-*.C++ linguist-vendored
-*.C linguist-vendored
+*.c++ linguist-vendored
+*.c linguist-vendored
 *.javascript linguist-detectable=true
 *.javascript linguist-vendored=true
 
