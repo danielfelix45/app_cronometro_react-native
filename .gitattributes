@@ -1,4 +1,4 @@
 
 *.java linguist-vendored
 *.C++ linguist-vendored
-*.react-native linguist-vendored=false
+react-native linguist-vendored=false
