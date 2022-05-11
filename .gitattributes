@@ -1,4 +1,5 @@
 # * linguist-vendored
+*.java linguist-vendored
 *.C++ linguist-vendored
 *.C linguist-vendored
 *.javascript linguist-detectable=true
