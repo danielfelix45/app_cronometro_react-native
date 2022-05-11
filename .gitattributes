@@ -1,4 +1,2 @@
-android/* linguist-vendored
-app_cronometro/android/* linguist-vendored
-ios/* linguist-vendored
 *.java linguist-vendored
+*.c++ linguist-vendored
